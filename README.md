@@ -34,8 +34,8 @@ All of these changes can be seen (an edited!) in the schematic and the pcb. This
 - Write a more extensive guide.
 
 ## Acknowledgements:
-- @Sleepdealr - For creating the [RP2040 design guide](https://github.com/Sleepdealr/RP2040-designguide) which this template is mostly based from
+- [@Sleepdealr](https://github.com/Sleepdealr/) - For creating the [RP2040 design guide](https://github.com/Sleepdealr/RP2040-designguide) which this template is mostly based from
 - Crane's Lab - For having such an amazing community and inspiring creativity in everyone who steps there.
-- @rana-sylvatica - For making the OFOF1 and inspiring me to design my rectangles.
-- @Ryanemzed - For posting a cool clear acrylic build and taking me into a new rabbit hole.
+- [@rana-sylvatica](https://github.com/rana-sylvatica/) - For making the OFOF1/Rana Digital and inspiring me to design my rectangles.
+- [@Ryanemzed](https://github.com/Ryanemzed/) - For posting a cool clear acrylic build and taking me into a new rabbit hole (and being an amazing community member!).
 - The Phob project - For being an amazing standard for the open source-community.
