@@ -427,8 +427,8 @@
       (net 22 "Net-(J1-SHIELD)") (pinfunction "SHIELD") (pintype "passive") (tstamp 969e3bca-0c78-49e9-a450-4d7627386fbf))
     (pad "S1" thru_hole oval (at 4.49 1.28 180) (size 0.8 1.4) (drill oval 0.5 1.1) (layers "*.Cu" "*.Mask")
       (net 22 "Net-(J1-SHIELD)") (pinfunction "SHIELD") (pintype "passive") (tstamp 6c56bd56-984a-4bed-b8f1-0f0e1e32d534))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl"
-      (offset (xyz 0 0 0))
+    (model "${KIPRJMOD}/model/TYPE-C-SMD_TYPE-C-24P-QCHT.wrl"
+      (offset (xyz 0 1.15 1.7))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -1040,6 +1040,11 @@
       )
     )
     (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_SKQG_WithStem.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Button_Switch_SMD.3dshapes/SW_SPST_TL3342.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2051,6 +2056,11 @@
     (pad "8" smd roundrect (at 3.6 -1.905) (size 1.6 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 2 "+3V3") (pinfunction "VCC") (pintype "power_in") (tstamp 44cb3d6c-d3be-4852-9497-a72d631f695b))
     (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.23x5.23mm_P1.27mm.wrl"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
