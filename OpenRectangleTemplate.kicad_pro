@@ -48,8 +48,32 @@
           "min_clearance": 0.15
         }
       },
-      "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        "clearance|137754589|27296089|6e9b62c9-13a2-4fae-a390-5f9fcbee7b23|485dc11d-ab40-410e-a1ce-3ba53c4dfd39",
+        "clearance|138354589|26946089|485dc11d-ab40-410e-a1ce-3ba53c4dfd39|52db3685-d50f-498d-ac3a-ef9e8aaa1431",
+        "clearance|138954589|27296089|52db3685-d50f-498d-ac3a-ef9e8aaa1431|c793dede-87de-4184-9d25-36ed908ec3e8",
+        "clearance|139154589|26946089|52db3685-d50f-498d-ac3a-ef9e8aaa1431|ad62ff43-cc96-4e99-a28d-740b181e49cd",
+        "clearance|139354589|27296089|c793dede-87de-4184-9d25-36ed908ec3e8|ad62ff43-cc96-4e99-a28d-740b181e49cd",
+        "clearance|139554589|27646089|c793dede-87de-4184-9d25-36ed908ec3e8|168d3959-efed-472e-9032-6a9ce27bf1de",
+        "clearance|139754589|27296089|ad62ff43-cc96-4e99-a28d-740b181e49cd|168d3959-efed-472e-9032-6a9ce27bf1de",
+        "clearance|140268913|28245922|3d1496c1-ca72-47f2-9d07-95c54e8d57d5|72be0679-6945-469f-898d-f7e48df58b38",
+        "clearance|140354589|27646089|168d3959-efed-472e-9032-6a9ce27bf1de|c926d02c-9dd9-4f2b-a754-1020d17ef382",
+        "clearance|140454589|28406089|0517429c-7fde-4c17-91d1-3bdfbbb9e18a|72be0679-6945-469f-898d-f7e48df58b38",
+        "clearance|140954589|27296089|c926d02c-9dd9-4f2b-a754-1020d17ef382|57037883-d38e-4d22-a704-c08467e916e6",
+        "clearance|141154589|27646089|c926d02c-9dd9-4f2b-a754-1020d17ef382|c0ddaace-9e2a-426c-a27a-006583c11884",
+        "clearance|141354589|27296089|57037883-d38e-4d22-a704-c08467e916e6|c0ddaace-9e2a-426c-a27a-006583c11884",
+        "clearance|141554589|26946089|57037883-d38e-4d22-a704-c08467e916e6|1309a58d-5c13-4f24-9b57-c4d457ee05af",
+        "clearance|141754589|27296089|c0ddaace-9e2a-426c-a27a-006583c11884|1309a58d-5c13-4f24-9b57-c4d457ee05af",
+        "clearance|142354589|26946089|1309a58d-5c13-4f24-9b57-c4d457ee05af|9c3c8070-1f9e-4fff-b2c1-b1a734cde064",
+        "clearance|142954589|27296089|9c3c8070-1f9e-4fff-b2c1-b1a734cde064|95bb24ae-7cae-4468-b2d3-9304d7aada76"
+      ],
       "meta": {
         "version": 2
       },
@@ -114,7 +138,7 @@
         "min_microvia_drill": 0.09999999999999999,
         "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.7999999999999999,
+        "min_text_height": 0.6,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.0,
@@ -165,8 +189,23 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.2,
+        0.4,
+        0.5,
+        1.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "layer_presets": [],
