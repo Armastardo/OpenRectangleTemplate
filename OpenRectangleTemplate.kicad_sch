@@ -3243,7 +3243,7 @@
     (property "Value" "JTAG_TC2030" (at 151.511 187.452 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "marbastlib-various:CON_TC2030_outlined" (at 172.085 179.07 90)
+    (property "Footprint" "PCM_marbastlib-various:CON_TC2030_outlined" (at 172.085 179.07 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 129.54 194.31 0)
