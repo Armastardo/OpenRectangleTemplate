@@ -1,6 +1,6 @@
 
 # Open Rectangle Template
-**RP2040 template for use with box style controllers for the GC - CURRENTLY UNTESTED**
+**RP2040 template for use with box style controllers for the GC**
 
 <p align="center">
   <img src="https://github.com/Armastardo/OpenRectangleTemplate/blob/main/Pictures/KicadRender.png?raw=true" />
@@ -9,6 +9,7 @@
 ## Table of contents
 * [About](#about)
 * [Usage](#usage)
+* [Featured proyects](#proyects)
 * [To-do](#to-do)
 * [Acknowledgements](#acknowledgements)
 
@@ -19,6 +20,10 @@ This template was created for the purpose of easing development of box-styled co
 This templates requires for you to have a minium experience with Kicad and some EE basics. You can just download it as *.zip and start creating your own. Make sure you are using **Kicad 7**. 
 ## To-do:
 - Write a more extensive guide.
+
+## Projects
+Small section to highlight proyects that were devveloped using this template.
+- [Open Rectangle Breakout](https://github.com/Armastardo/OpenRectangleBreakout) - Breakout board designed to make handwired builds easier.
 
 ## Acknowledgements:
 - [@Sleepdealr](https://github.com/Sleepdealr/) - For creating the [RP2040 design guide](https://github.com/Sleepdealr/RP2040-designguide) which this template is mostly based from
