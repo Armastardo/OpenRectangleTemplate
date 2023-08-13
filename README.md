@@ -9,7 +9,7 @@
 ## Table of contents
 * [About](#about)
 * [Usage](#usage)
-* [Featured proyects](#proyects)
+* [Featured projects](#projects)
 * [To-do](#to-do)
 * [Acknowledgements](#acknowledgements)
 
